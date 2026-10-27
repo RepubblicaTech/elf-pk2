@@ -17,4 +17,4 @@ The program expects an ELF file (to be parsed) as a parameter:
 
 # Notes?
 
-If you just want to fix the warnings or polish up the the code, then contributions are welcome.
+If you just want to fix the warnings or refine the the code overall, then contributions are welcome.
